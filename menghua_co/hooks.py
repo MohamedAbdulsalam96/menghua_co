@@ -245,4 +245,5 @@ required_apps = ["frappe/erpnext", "kittiu/thai_tax", "kittiu/sales_billing"]
 doctype_js = {
 	"Sales Order": "public/js/sales_order.js",
     "Quotation": "public/js/quotation.js",
+    "Sales Billing": "public/js/sales_billing.js",
 }
